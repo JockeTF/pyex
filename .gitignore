@@ -1,0 +1,38 @@
+# Common files.
+.DS_Store
+Thumbs.db
+
+# Common extensions.
+*.diff
+*.err
+*.orig
+*.log
+*.rej
+*.swo
+*.swp
+*.vi
+*~
+
+# Python cache.
+__pycache__/
+
+# Virtual environment.
+venv/
+
+# PyCharm project.
+/.idea/
+*.iml
+
+# Eclipse project.
+.project
+.pydevproject
+.settings/
+
+# Rope project.
+.ropeproject/
+
+# Coverage output.
+.coverage
+coverage.xml
+htmlcov/
+*.py,cover
